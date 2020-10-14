@@ -23,6 +23,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^0.19.0
+  svg_path_parser: ^0.1.1
+  clip_shadow: ^0.2.1
+  photo_view: ^0.10.2
+  google_fonts: ^1.1.0
+  animated_text_kit: ^2.2.0
+  flutter_neumorphic: ^3.0.2
+  neumorphic: ^0.4.0
+  tinycolor: ^1.0.3
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -44,10 +53,8 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - lib/assets/images/cherry/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
