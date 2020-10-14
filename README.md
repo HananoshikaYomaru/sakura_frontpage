@@ -1,6 +1,6 @@
 # sakura
 
-![demo](Oct-14-2020 15-05-53.gif)
+![demo](demo.gif)
 
 The front page of sakura techo, made in flutter and dart 
 
